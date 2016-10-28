@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="topic_zqs_2fz_px" path="intro.html"/>
+   <appContext helpID="task_lpm_txy_px" path="assembly.html"/>
+   <appContext helpID="task_rzg_z1z_px" path="make.html"/>
+   <appContext helpID="task_ujz_fcz_px" path="clean.html"/>
+   <appContext helpID="trouble_vsw_kwz_px" path="Trouble%201.html"/>
+   <appContext helpID="trouble_wmf_ywz_px" path="Trouble%202.html"/>
+   <appContext helpID="task_r51_mtz_px" path="VPI%20Vanilla.html"/>
+   <appContext helpID="task_bc1_r5z_px" path="MVC.html"/>
+   <appContext helpID="task_xzh_rvz_px" path="Sands.html"/>
+   <appContext helpID="topic_zz2_rxz_px" path="Reference.html"/>
+</map>

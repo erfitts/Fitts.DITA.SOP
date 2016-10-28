@@ -1,0 +1,11 @@
+fil = new Array();
+fil["0"]= "MVC.html@@@Marching Virginians Chocolate (MVC)@@@The name Marching Virginians Chocolate, or MVC, alludes to a building on-campus constructed and opened in the fall of 2015. That building is the Marching Virginians Center, the home of The Marching Virginians, Virginia Tech s 330-member civilian marching band better known as The Spirit of Tech!...";
+fil["1"]= "Reference.html@@@References@@@The information in this SOP on assembly, usage, cleaning, and troubleshooting has been adapted from the official manual for the Cuisinart ICE-60W by the Virginia Tech Department of English. The...";
+fil["2"]= "Sands.html@@@President Sands Strawberry@@@The name President Sands Strawberry is based on the 16th President of Virginia Tech Dr. Timothy Sands...";
+fil["3"]= "Trouble 1.html@@@Troubleshooting #1@@@The incorrect function was selected. User Error Reset the unit by pressing the  Start/Stop  button twice...";
+fil["4"]= "Trouble 2.html@@@Troubleshooting #2@@@The unit stopped running. Machine Malfunction Recipe is either complete, or load was too heavy Press  Start/Stop  button and let unit cool...";
+fil["5"]= "VPI Vanilla.html@@@V.P.I. Vanilla@@@The name V.P.I. Vanilla is taken from the University s full name, the  Virginia Polytechnic Institute and State University...";
+fil["6"]= "assembly.html@@@How to Assemble the Cuisinart ICE-60W@@@The purpose of this section of the SOP is to inform the user about the components of the Cuisinart ICE-60W and teach him or her how to put the ice cream machine together...";
+fil["7"]= "clean.html@@@How to Clean the Cuisinart ICE-60W@@@The purpose of this section of the SOP is to inform the user about the proper cleaning and maintenance techniques needed to keep the Cuisinart ICE-60W operating to the best of its ability...";
+fil["8"]= "intro.html@@@Introduction@@@This standard operating procedure (SOP) intends to describe how English students can use the Cuisinart ICE-60W ice cream and gelato machine. The Department of English at Virginia Tech is installing...";
+fil["9"]= "make.html@@@How to Make Ice Cream@@@The purpose of this section of the SOP is to inform the user about the process of making ice cream using the Cuisinart ICE-60W in the classrooms in Shanks Hall...";
